@@ -1,0 +1,11 @@
+{
+    "name": "password-manager-mvp",
+    "private": true,
+    "workspaces": [
+      "backend",
+      "mobile",
+      "extension",
+      "common"
+    ]
+  }
+  
