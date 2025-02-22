@@ -1,4 +1,4 @@
-SecuroSoar: The AI-Powered Cross-Platform Password Manager
+SecuroSaur: The AI-Powered Cross-Platform Password Manager
 
 Overview
 
